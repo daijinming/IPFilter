@@ -1,0 +1,4 @@
+E:\ecobp\ServiceIPFilterSolution\IPFilter\IPFilter\bin\Debug\IPFilter.dll
+E:\ecobp\ServiceIPFilterSolution\IPFilter\IPFilter\bin\Debug\IPFilter.pdb
+E:\ecobp\ServiceIPFilterSolution\IPFilter\IPFilter\obj\Debug\IPFilter.dll
+E:\ecobp\ServiceIPFilterSolution\IPFilter\IPFilter\obj\Debug\IPFilter.pdb
